@@ -1,3 +1,3 @@
 FROM centos
 
-ENTRYPOINT ['/bin/echo']
+ENTRYPOINT ["/bin/echo"]
